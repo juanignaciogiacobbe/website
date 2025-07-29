@@ -3,14 +3,13 @@ import Home from './pages/Home/Home';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/website">
       <Routes>
         <Route path="/" element={<Home />} />
-        
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </Router>
   );
 }
 
-export default App
+export default App;
