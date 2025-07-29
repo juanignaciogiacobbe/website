@@ -32,7 +32,7 @@ function Home() {
       <div className="max-w-6xl w-full grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
         
         {/* Left Column - Content */}
-        <div className="space-y-6 text-center lg:text-left">
+        <div className="space-y-6 text-center lg:text-left mt-16 lg:mt-0">
           <h1 className="text-4xl lg:text-5xl font-bold leading-tight" style={{ color: 'var(--color-hadopelagic-water)' }}>
             Hi! I'm Juan Ignacio
           </h1>
