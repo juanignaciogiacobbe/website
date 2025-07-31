@@ -87,9 +87,8 @@ function Home() {
               GitHub
             </a>
             
-            {/* TODO: Create personal blog and publish here */}
-            {/* <a 
-              href="https://your-blog-url.com" 
+            <a 
+              href="https://medium.com/@juanignaciogiacobbe" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg font-medium transition-colors duration-200 flex items-center justify-center gap-2"
@@ -99,7 +98,7 @@ function Home() {
                 <path d="M15 7h1a2 2 0 012 2v5.5a1.5 1.5 0 01-3 0V9a1 1 0 00-1-1h-1v3a2 2 0 01-2 2H4.5a1.5 1.5 0 010-3H11V7z" />
               </svg>
               My Blog
-            </a> */}
+            </a>
           </div>
         </div>
         
