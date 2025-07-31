@@ -1,4 +1,4 @@
-import juanPhoto from '../../assets/juan.jpeg';
+import juanPhoto from '../../assets/juan.png';
 import { useState, useEffect } from 'react';
 
 function Home() {
